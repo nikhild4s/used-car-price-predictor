@@ -7,6 +7,12 @@ A Machine Learning project that predicts used car prices based on features like 
 
 ---
 
+## 🔗 Live Demo  
+
+🌐 **Try it live:** https://used-car-price-predictor-g7.streamlit.app/
+
+---
+
 ## 📁 Project Structure  
 
 PROJECTAI.ipynb
